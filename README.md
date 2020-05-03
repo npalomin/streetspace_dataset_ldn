@@ -2,6 +2,8 @@
 
 This page describes the technical specifications and brief summary of the streetspace dateset of London. The data is presented as geometric linear features representing the road centre line of streets.
 
+<img src="sample.png" width="400">
+
 ## Methodolgy
 
 The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research puposes by Ordnance Survey (OS) under a Digimap Licence. The full methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published September 2019.
@@ -26,7 +28,7 @@ Data can be analysed using the free software environment R with the [sf](https:/
 
 ## Caveats
 
-The parameters presented in this dataset should be viewed as estimated measurments of real-world-objects. For a full assessment of the data generation process read the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurments of bridges structures and motorways junctions were streetspace designations could be over and underestimated.
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process read the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurments of bridges structures and motorways junctions were streetspace designations could be over and underestimated.
 
 ## Study area
 
