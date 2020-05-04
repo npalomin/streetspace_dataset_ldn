@@ -1,28 +1,28 @@
 # Streetspace dataset London
 
+This page describes the technical specifications of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
+
+<img src="sample.png" width="300" style="margin:0px 300px">
+
 - [Methodology](https://github.com/npalomin/streetspace_dataset_ldn#methodolgy)
 
 - [Codebook](https://github.com/npalomin/streetspace_dataset_ldn#codebook)
 
 - [Format](https://github.com/npalomin/streetspace_dataset_ldn#format)
 
-- [Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
-
 - [Study Area](https://github.com/npalomin/streetspace_dataset_ldn#study-area)
 
-- [Licencing of OS data](https://github.com/npalomin/streetspace_dataset_ldn#licencing-of-os-data)
+- [Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
 
 - [Related research](https://github.com/npalomin/streetspace_dataset_ldn#related-research)
+
+- [Possible uses and applications](https://github.com/npalomin/streetspace_dataset_ldn#possible-uses-and-applications)
 
 - [Data accessibility](https://github.com/npalomin/streetspace_dataset_ldn#data-accessibility)
 
 - [Citation](https://github.com/npalomin/streetspace_dataset_ldn#citation)
 
 - [Contact](https://github.com/npalomin/streetspace_dataset_ldn#contact)
-
-This page describes the technical specifications and brief summary of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
-
-<img src="sample.png" width="400" style="margin:0px 250px">
 
 ## Methodology
 
@@ -46,17 +46,13 @@ The dataset is provided in a geopackage format (gpkg).
 
 The data can be analysed using the free software environment R with the [sf](https://cran.r-project.org/web/packages/sf/index.html) package or the free and open-source software [QGIS](https://qgis.org/en/site/)
 
-## Caveats
-
-The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
-
 ## Study area
 
 The dataset describes all streets within an area of a 2 km buffer from the M25 Orbital Motorway road centre line.
 
-## Licencing of OS data
+## Caveats
 
-Ordnance Survey has released a new [Covid-19 licence](https://www.ordnancesurvey.co.uk/about/covid-19/new-to-os) for various premium OS products free of royalties.
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
 
 ## Related research
 
@@ -66,6 +62,12 @@ This dataset was created by [Nicolas Palominos](https://npalomin.github.io/) for
 |--|--|--|
 |Citywide analysis of streetspace in London |[Conference presentation](https://www.researchgate.net/publication/337745659_Citywide_analysis_of_streetspace_in_London?channel=doi&linkId=5de83ad9299bf10bc34049c8&showFulltext=true#fullTextFileContent) |3rd INTERNATIONAL LAND USE SYMPOSIUM. Land use changes: Trends and projections |
 |Streetspace designation metrics |[Poster presentation](https://drive.google.com/file/d/1RwEJdtj4UGNIczO6PAgMO89gK3Xps9Qn/view) |London Walking and Cycling conference 2019 |
+
+## Possible uses and applications
+
+The new street level data introduced here can yield important insights for street research, planning and design. 
+
+Under the coronavirus emergency, public authorities are being required to reorganise streespace to facilitate social distancing and less polluting modes of transport. Because the available streetspace is scarce and fixed, the widths of pavements and carriageways are key parameters for re-designing streets with a health-oriented layout. Pavement and carriageway widths can be queried from highly detailed built environment topographic data. However, the data structure limits its analysis to small urban areas being less useful for city-wide planning. The dataset on streetspace parameters presented here allow to conduct spatial analysis over large urban areas using free and open-source software. The examination of this dataset can offer valuable analytical capacity for developing new cycling and walking schemes and designing place-based streets.
 
 ## Data accessibility
 
