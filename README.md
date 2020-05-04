@@ -24,7 +24,7 @@ This page describes the technical specifications and brief summary of the street
 
 <img src="sample.png" width="400" style="margin:0px 250px">
 
-## Methodolgy
+## Methodology
 
 The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research puposes by Ordnance Survey (OS) under a Digimap Licence. The complete methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published September 2019.
 
