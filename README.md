@@ -1,14 +1,23 @@
 # Streetspace dataset London
 
 [Methodology](https://github.com/npalomin/streetspace_dataset_ldn#methodolgy)
+
 [Codebook](https://github.com/npalomin/streetspace_dataset_ldn#codebook)
+
 [Format](https://github.com/npalomin/streetspace_dataset_ldn#format)
+
 [Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
+
 [Study Area](https://github.com/npalomin/streetspace_dataset_ldn#study-area)
+
 [Licencing of OS data](https://github.com/npalomin/streetspace_dataset_ldn#licencing-of-os-data)
+
 [Related research](https://github.com/npalomin/streetspace_dataset_ldn#related-research)
+
 [Data accessibility](https://github.com/npalomin/streetspace_dataset_ldn#data-accessibility)
+
 [Citation](https://github.com/npalomin/streetspace_dataset_ldn#citation)
+
 [Contact](https://github.com/npalomin/streetspace_dataset_ldn#contact)
 
 This page describes the technical specifications and brief summary of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
