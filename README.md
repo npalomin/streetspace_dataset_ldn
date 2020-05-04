@@ -1,24 +1,24 @@
 # Streetspace dataset London
 
-[Methodology](https://github.com/npalomin/streetspace_dataset_ldn#methodolgy)
+- [Methodology](https://github.com/npalomin/streetspace_dataset_ldn#methodolgy)
 
-[Codebook](https://github.com/npalomin/streetspace_dataset_ldn#codebook)
+- [Codebook](https://github.com/npalomin/streetspace_dataset_ldn#codebook)
 
-[Format](https://github.com/npalomin/streetspace_dataset_ldn#format)
+- [Format](https://github.com/npalomin/streetspace_dataset_ldn#format)
 
-[Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
+- [Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
 
-[Study Area](https://github.com/npalomin/streetspace_dataset_ldn#study-area)
+- [Study Area](https://github.com/npalomin/streetspace_dataset_ldn#study-area)
 
-[Licencing of OS data](https://github.com/npalomin/streetspace_dataset_ldn#licencing-of-os-data)
+- [Licencing of OS data](https://github.com/npalomin/streetspace_dataset_ldn#licencing-of-os-data)
 
-[Related research](https://github.com/npalomin/streetspace_dataset_ldn#related-research)
+- [Related research](https://github.com/npalomin/streetspace_dataset_ldn#related-research)
 
-[Data accessibility](https://github.com/npalomin/streetspace_dataset_ldn#data-accessibility)
+- [Data accessibility](https://github.com/npalomin/streetspace_dataset_ldn#data-accessibility)
 
-[Citation](https://github.com/npalomin/streetspace_dataset_ldn#citation)
+- [Citation](https://github.com/npalomin/streetspace_dataset_ldn#citation)
 
-[Contact](https://github.com/npalomin/streetspace_dataset_ldn#contact)
+- [Contact](https://github.com/npalomin/streetspace_dataset_ldn#contact)
 
 This page describes the technical specifications and brief summary of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
 
@@ -26,7 +26,7 @@ This page describes the technical specifications and brief summary of the street
 
 ## Methodolgy
 
-The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research puposes by Ordnance Survey (OS) under a Digimap Licence. The full methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published September 2019.
+The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research puposes by Ordnance Survey (OS) under a Digimap Licence. The complete methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published September 2019.
 
 ## Codebook
 
@@ -48,15 +48,15 @@ The data can be analysed using the free software environment R with the [sf](htt
 
 ## Caveats
 
-The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process user are adviced consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
 
 ## Study area
 
-The dataset describes all streets within an area of 2 km buffer from the M25 Orbital Motorway road centreline.
+The dataset describes all streets within an area of a 2 km buffer from the M25 Orbital Motorway road centre line.
 
 ## Licencing of OS data
 
-Ordnance Survey has released a new [Covid-19 licence](https://www.ordnancesurvey.co.uk/about/covid-19/new-to-os) for various premium OS products free of royalties
+Ordnance Survey has released a new [Covid-19 licence](https://www.ordnancesurvey.co.uk/about/covid-19/new-to-os) for various premium OS products free of royalties.
 
 ## Related research
 
