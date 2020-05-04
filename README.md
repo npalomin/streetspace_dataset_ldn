@@ -1,5 +1,16 @@
 # Streetspace dataset London
 
+[Methodology](https://github.com/npalomin/streetspace_dataset_ldn#methodolgy)
+[Codebook](https://github.com/npalomin/streetspace_dataset_ldn#codebook)
+[Format](https://github.com/npalomin/streetspace_dataset_ldn#format)
+[Caveats](https://github.com/npalomin/streetspace_dataset_ldn#caveats)
+[Study Area](https://github.com/npalomin/streetspace_dataset_ldn#study-area)
+[Licencing of OS data](https://github.com/npalomin/streetspace_dataset_ldn#licencing-of-os-data)
+[Related research](https://github.com/npalomin/streetspace_dataset_ldn#related-research)
+[Data accessibility](https://github.com/npalomin/streetspace_dataset_ldn#data-accessibility)
+[Citation](https://github.com/npalomin/streetspace_dataset_ldn#citation)
+[Contact](https://github.com/npalomin/streetspace_dataset_ldn#contact)
+
 This page describes the technical specifications and brief summary of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
 
 <img src="sample.png" width="400" style="margin:0px 250px">
@@ -28,7 +39,7 @@ The data can be analysed using the free software environment R with the [sf](htt
 
 ## Caveats
 
-The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process user are adviced consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated.
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process user are adviced consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
 
 ## Study area
 
@@ -47,9 +58,13 @@ This dataset was created by [Nicolas Palominos](https://npalomin.github.io/) for
 |Citywide analysis of streetspace in London |[Conference presentation](https://www.researchgate.net/publication/337745659_Citywide_analysis_of_streetspace_in_London?channel=doi&linkId=5de83ad9299bf10bc34049c8&showFulltext=true#fullTextFileContent) |3rd INTERNATIONAL LAND USE SYMPOSIUM. Land use changes: Trends and projections |
 |Streetspace designation metrics |[Poster presentation](https://drive.google.com/file/d/1RwEJdtj4UGNIczO6PAgMO89gK3Xps9Qn/view) |London Walking and Cycling conference 2019 |
 
+## Data accessibility
+
+Data are available from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3783807.svg)](https://doi.org/10.5281/zenodo.3783807)
+
 ## Citation
 
-Cite as:
+Cite working paper as:
 
 APA
 
