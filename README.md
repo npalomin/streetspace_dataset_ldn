@@ -79,7 +79,7 @@ Cite working paper as:
 
 APA
 
-Palominos, N., & Smith, D. A. Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace. CASA Workig Paper 212. Sep 2019.
+Palominos, N., & Smith, D. A. Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace. CASA Working Paper 212. Sep 2019.
 
 Bibtex
 
