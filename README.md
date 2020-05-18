@@ -52,7 +52,7 @@ The dataset describes all streets within an area of a 2 km buffer from the M25 O
 
 ## Caveats
 
-The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment.
 
 ## Related research
 
