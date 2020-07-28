@@ -26,7 +26,7 @@ This page describes the technical specifications of the streetspace dataset of L
 
 ## Methodology
 
-The complete methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published September 2019. The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research purposes by Ordnance Survey (OS) under a Digimap Licence. 
+The complete methodology is presented in the CASA Working Paper 212 ["Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace"](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212) by Nicolas Palominos and Duncan A Smith published in September 2019. The dataset is generated through a processing model using QGIS and R softwares. Metrics of pavement and carriageway widths are derived from urban topographic data published for research purposes by Ordnance Survey (OS) under a Digimap Licence. 
 
 ## Codebook
 
