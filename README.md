@@ -1,6 +1,6 @@
 # Streetspace dataset London
 
-This page describes the technical specifications of the streetspace dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
+This page describes the technical specifications of the streetspace allocation dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
 
 <img src="sample.png" width="300" style="margin:0px 300px">
 
