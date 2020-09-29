@@ -1,6 +1,6 @@
 # Streetspace dataset London
 
-This page describes the technical specifications of the streetspace allocation dataset of London. The data is presented as geometric linear features representing the road centre line of streets.
+This page describes the technical specifications of the streetspace allocation dataset for London. The data is presented as geometric linear features representing the road centre line of streets.
 
 <img src="sample.png" width="300" style="margin:0px 300px">
 
@@ -52,7 +52,7 @@ The dataset describes all streets within an area of a 2 km buffer from the M25 O
 
 ## Caveats
 
-The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are adviced to consider the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and at motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment.
+The parameters presented in this dataset should be viewed as estimated measurements of real-world-objects. For a full assessment of the data generation process users are advised to review the referenced [paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212). Some known limitations are present in the measurements of bridges structures and in motorways junctions where streetspace designations could be over and underestimated. Other inconsistencies observed in the data have to do with the capacity of the datasets to synchronously reflect the ongoing changing nature of the built environment. The Topographic layer data was dowloaded on May 2017.
 
 ## Related research
 
@@ -67,7 +67,7 @@ This dataset was created by [Nicolas Palominos](https://npalomin.github.io/) for
 
 The new street level data introduced here can yield important insights for street research, planning and design. 
 
-Under the coronavirus emergency, public authorities are being required to reorganise streespace to facilitate social distancing and less polluting modes of transport. Because the available streetspace is scarce and fixed, the widths of pavements and carriageways are key parameters for re-designing streets with a health-oriented layout. Pavement and carriageway widths can be queried from highly detailed built environment topographic data. However, the data structure limits its analysis to small urban areas being less useful for city-wide planning. The dataset on streetspace parameters presented here allow to conduct spatial analysis over large urban areas using free and open-source software. The examination of this dataset can offer valuable analytical capacity for developing new cycling and walking schemes and designing place-based streets.
+Under the coronavirus emergency, public authorities are being required to reorganise streespace to facilitate social distancing and promote less polluting modes of transport. Because the available streetspace is scarce and fixed, the widths of pavements and carriageways are key parameters to consider for re-designing streets with a health-oriented layout. Pavement and carriageway widths can be queried from highly detailed built environment topographic data. However, the data structure limits its analysis to small urban areas being less useful for city-wide planning. The dataset on streetspace parameters presented here allow to conduct spatial analysis over large urban areas using free and open-source software. The examination of this dataset can offer valuable analytical capacity for designing and planning streets following principles of sustainable city development.
 
 ## Data accessibility
 
