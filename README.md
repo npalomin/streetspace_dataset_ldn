@@ -1,4 +1,8 @@
 # Streetspace dataset London
+Nicolas Palominos
+
+Original Publish Date: 05 June, 2020  
+Updated on: 29 January, 2021
 
 This page describes the technical specifications of the streetspace allocation dataset for London. The data is presented as geometric linear features representing the road centre line of streets.
 
@@ -60,6 +64,8 @@ This dataset was created by [Nicolas Palominos](https://npalomin.github.io/) for
 
 |Research Publication| Type | |
 |--|--|--|
+|Identifying and Characterising Active Travel Corridors for London in Response to COVID-19 Using Shortest Path and Streetspace Analysis| [Working paper](https://www.ucl.ac.uk/bartlett/casa/publications/2020/may/casa-working-paper-222) | CASA Working Paper 222, May 2020 |
+|Quantifying and Mapping Streetspace: a Geocomputational Method for the Citywide Analysis of Pedestrian and Vehicular Streetspace| [Working paper](https://www.ucl.ac.uk/bartlett/casa/publications/2019/sep/casa-working-paper-212)| CASA Working Paper 212, Sep 2019 |
 |Citywide analysis of streetspace in London |[Conference presentation](https://www.researchgate.net/publication/337745659_Citywide_analysis_of_streetspace_in_London?channel=doi&linkId=5de83ad9299bf10bc34049c8&showFulltext=true#fullTextFileContent) |3rd INTERNATIONAL LAND USE SYMPOSIUM. Land use changes: Trends and projections |
 |Streetspace designation metrics |[Poster presentation](https://drive.google.com/file/d/1RwEJdtj4UGNIczO6PAgMO89gK3Xps9Qn/view) |London Walking and Cycling conference 2019 |
 
@@ -67,7 +73,11 @@ This dataset was created by [Nicolas Palominos](https://npalomin.github.io/) for
 
 The new street level data introduced here can yield important insights for street research, planning and design. 
 
-Under the coronavirus emergency, public authorities are being required to reorganise streespace to facilitate social distancing and promote less polluting modes of transport. Because the available streetspace is scarce and fixed, the widths of pavements and carriageways are key parameters to consider for re-designing streets with a health-oriented layout. Pavement and carriageway widths can be queried from highly detailed built environment topographic data. However, the data structure limits its analysis to small urban areas being less useful for city-wide planning. The dataset on streetspace parameters presented here allow to conduct spatial analysis over large urban areas using free and open-source software. The examination of this dataset can offer valuable analytical capacity for designing and planning streets following principles of sustainable city development.
+Under the coronavirus emergency, public authorities are being required to reorganise streespace to facilitate social distancing and promote less polluting modes of transport. Because the available streetspace is scarce and fixed, the widths of pavements and carriageways are key parameters to consider for re-designing people-friendlier streets and healthier streets environemnts. Pavement and carriageway widths can be queried from highly detailed built environment topographic data. However, the data structure limits its analysis to small urban areas being less useful for city-wide planning. The dataset on streetspace parameters presented here allow to conduct spatial analysis over large urban areas using free and open-source software. The examination of this dataset can offer valuable analytical capacity for designing and planning streets following principles of sustainable city development.
+
+The streetspace allocation metrics for London data are part of the [Healthy Streets Index](https://www.underscorestreets.com/the-healthy-streets-index)
+
+<img src="https://pbs.twimg.com/media/Es1bGO7XYAIdjRu.jpg" width="700" style="margin:0px 300px">
 
 ## Data accessibility
 
